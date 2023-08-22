@@ -1,44 +1,67 @@
 ---
 enable: true
-topTitle: Product Categories
+topTitle: Servicios
 title: >
-  ## Diversity in Products
+  ## Fisioterapia Pélvica Especializada
 
-  From tasty dried fruits to nutritious nuts and saffron are provided by Helmani.
+  Ofrecemos fisioterapia pélvica especializada para embarazo, postparto, incontinencia, prolapso, dolor pélvico y más. Tu bienestar es nuestra prioridad.
 service:
   - content: >
-      #### Pistachios 
+      #### Embarazo
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Cuida de ti y de tu bebé durante el embarazo con nuestra atención experta.
+      Promovemos un embarazo saludable y cómodo.
+    image: images/service/barberry.png
+  - content: >
+      #### Rehabilitación Postparto
+
+      Recupera vitalidad tras el parto con nuestro programa personalizado.
+      Tu bienestar es nuestra prioridad.
     image: images/service/pistachio.png
   - content: >
-      #### Raisins
+      #### Tratamiento de Cicatriz por Cesárea
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Mejora la apariencia y la sensación de tu cicatriz de cesárea.
+      Bienestar visible y duradero.
+    image: images/service/barberry.png
+  - content: >
+      #### Incontinencia Urinaria
+
+      Supera la incontinencia con nuestra terapia especializada.
+      Recupera la confianza y mejora tu calidad de vida hoy.
     image: images/service/raisins.png
   - content: >
-      #### Dates 
+      #### Dolor Pélvico 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Encuentra alivio del dolor pélvico a través de nuestros tratamientos especializados.
+      Restaura tu comodidad y bienestar.
     image: images/service/dates.png
   - content: >
-      #### Walnuts
+      #### Disfunción Sexual
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Abordamos de manera comprensiva las disfunciones sexuales.
+      Recupera una vida íntima satisfactoria con nuestra terapia experta.
     image: images/service/walnut.png
   - content: >
-      #### Saffron
+      #### Rehabilitación Post-Operatorio
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Facilitamos tu recuperación post-operatoria con programas adaptados a tus necesidades.
     image: images/service/saffron.png
   - content: >
-      #### Barberries
+      #### Prolapsos
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Abordamos los prolapsos con enfoque personalizado.
+      Mejora tu calidad de vida y confort con nuestros tratamientos especializados.
+    image: images/service/barberry.png
+  - content: >
+      #### Vejiga Hiperactiva
+
+      Recupera el control de tu vejiga con nuestra terapia específica.
+      Vuelve a disfrutar de tus actividades diarias sin preocupaciones.
+    image: images/service/barberry.png
+  - content: >
+      #### Rehabilitación Postprostatectomía
+
+      Apoyamos tu recuperación después de una prostatectomía.
+      Recupera tu calidad de vida.
     image: images/service/barberry.png

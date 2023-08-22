@@ -1,17 +1,18 @@
 # In the Name of God, the Originator the Creative
 
 titleSeparator: "-"
-titleAddition: Nuts and Dried Food
+titleAddition: Fisioterapia Pélvica Experta | Cristal Sarabia, Fisioterapeuta Especializada
 description: >-
-  Healthy Food, Healthy Life, The premium quality and tasty dried fruits and nuts from
-  the best farms of Iran to bring you a healthier and tastier life!
+  Recupera tu bienestar con la fisioterapia pélvica de Cristal Sarabia.
+  Experta en tratamientos para el suelo pélvico, ofreciendo soluciones personalizadas.
+  Confía en nuestra experiencia para mejorar tu calidad de vida.
 # Open Graph and Twitter Cards
 images:
   - favicon.ico
 ogLocale: en_US
 # Used in Open Graph
-titleHome: Helmani Food
-twitterSite: "@gethyas"
+titleHome: Cristal Sarabia
+twitterSite: "@cristalsarabia"
 twitterCreator: "@henkverlinde"
 # It may be Person
 schemaType: Organization
