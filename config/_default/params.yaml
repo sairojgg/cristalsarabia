@@ -75,14 +75,14 @@ fabformURL: "https://fabform.io/f/JpTXRUa"
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo.png
 address:
-  address: "20 Piroozi, Sattar Khan, Tehran."
-  email: info@helmani.com
-  openingHours: Open from 10am to 6pm (close at 5pm Sundays)
-  phone: (+98) 911 86 2774
+  address: Torres Médicas II Angelopolis Consultorio 602, Puebla
+  email: contacto@cristalsarabia.com
+  openingHours: "Lun a Vie: 9:00 A.M. - 6:00 P.M. Sábados: 9:00 A.M. - 2:00 P.M."
+  phone: (+52) 222 359 0967
 map:
   APIkey: YOUR GOOGLE MAP API
-  latitude: "23.7783741"
-  longitude: "90.3746808"
+  latitude: "19.0201875"
+  longitude: "-98.2676374"
   pinImage: images/pin.png
 social:
   - icon: fa-facebook-official

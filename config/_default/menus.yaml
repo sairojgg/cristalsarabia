@@ -1,20 +1,20 @@
 main:
-  - name: Home
+  - name: Inicio
     url: ""
     weight: 1
-  - name: Categories
+  - name: Sobre mi
     url: "#service"
     weight: 2
-  - name: Certificates
+  - name: ¿Piso Pélvico?
     url: "#resume"
     weight: 3
-  - name: About
+  - name: Servicios
     url: "#about"
     weight: 4
-  - name: Products
+  - name: Core Restore
     url: "#product"
     weight: 5
-  - name: Testimonials
+  - name: Testimonios
     url: "#testimonial"
     weight: 6
   - name: Blog
@@ -24,7 +24,7 @@ sitemap:
   - name: Home
     url: ""
     weight: 1
-  - name: Contact Us
+  - name: Agenda tu cita
     url: "contact"
     weight: 2
   - name: Products

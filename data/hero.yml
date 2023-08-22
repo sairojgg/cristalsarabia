@@ -1,12 +1,10 @@
 ---
 enable: true
-topTitle: We Are Helmani!
+topTitle: Cristal Sarabia
 content: >
-  # Healthy Food, Healthy Life
+  # Recupera la armonía y vitalidad de tu cuerpo
 
-  The premium quality and tasty dried fruits and nuts from the best farms of Iran toi bring you a healthier and tastier life!
-buttonName: Contact Us
+  Bienvenida a un espacio dedicado a tu salud y bienestar pélvico
+buttonName: Agenda tu cita
 buttonURL: contact
-image: images/hero/nuts.jpg
-videoThumb: images/hero/pistachios.jpg
-videoURL: https://youtu.be/1-NOOoqlvfA
+image: images/hero/cristal.png
